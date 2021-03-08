@@ -1,0 +1,1 @@
+To use this, drag the upgrade_assets folder to the Wrapper: Offline folder. Do not change anything inside the upgrade_assets folder. If the update doesn't seem to have worked, you can try running upgrade_wrapper as admin, or directly move the files from upgrade_assets\new_files to the Wrapper: Offline folder.
